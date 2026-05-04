@@ -24,4 +24,4 @@ print(message)
 
 browser.quit()
 
-pywhatkit.sendwhatmsg_instantly("+918149334152", message, wait_time=10, tab_close=True)
+pywhatkit.sendwhatmsg_instantly("{}", message, wait_time=10, tab_close=True)
